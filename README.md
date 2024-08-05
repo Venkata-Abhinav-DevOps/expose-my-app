@@ -54,7 +54,7 @@ To get the public IP address, execute the following command in the local machine
 
 ## Additional Options
 
-LocalTunnel provides several options you can use:
+LocalTunnel provides several options that you can use:
 
 - **Custom Subdomain**: If you want to specify a custom subdomain, you can use the `--subdomain` option:
   
@@ -76,7 +76,7 @@ LocalTunnel provides several options you can use:
   lt --port 8080 --subdomain myjenkinsapp &
   ```
 
-The `&` symbol helps run the application in the background, but be cautious, as the process may terminate if the terminal session ends.\
+The `&` symbol helps run the application in the background, **but be cautious**, as the process may terminate if the terminal session ends.\
 If needed, you can use the `nohup` command to run the application in the background even if the terminal session is closed.
 
 ## Troubleshooting
