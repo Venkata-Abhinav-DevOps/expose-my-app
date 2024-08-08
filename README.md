@@ -10,7 +10,8 @@ Before you begin, ensure you have the following:
 - **npm**: npm (Node Package Manager) is included with Node.js. You can check if you have it installed by running:
   
   ```bash
-  npm -v
+    npm -v
+  ```
 
 ## Installation Steps
 **Step 1:** Open your terminal and run the following command to install LocalTunnel globally
